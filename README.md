@@ -1,5 +1,5 @@
-### Hi there 👋 
-### This is Marlon Varon!
+<h1>Hi there 👋</h1>
+<h2>This is Marlon Varon!</h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marlon268)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-estiben-varon-gonzalez-3167ba194/)
