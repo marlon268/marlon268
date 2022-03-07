@@ -5,10 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-estiben-varon-gonzalez-3167ba194/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:varon.marlon83@gmail.com)
 
-Welcome to my Github page! I am Marlon Varon and I am currently a platzi master student!  
+<h2>Welcome to my Github page! I am Marlon Varon and I am currently a platzi master student!</h2>
 
 <img align="right" alt="img" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uqRmMHM---/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png" width="50%" height="auto" />
-
 
 #### 🌱 Things I am currently working on: 
 - Finish my studies in platzi master
